@@ -1,8 +1,6 @@
 # Egyptian National Railways Booking App  
 ## UI/UX Case Study
 
-![App Preview](<img width="325" height="235" alt="image" src="https://github.com/user-attachments/assets/d9041f2f-22dd-4c9b-9c03-0d77865c546f" />
-)
 
 ---
 
